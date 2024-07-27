@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mayy
-- 👀 I’m interested in video game dev and mainly backend projects
+- 👀 I’m interested in video game dev and backend projects / building my skills and interest in front end also
 - 🌱 I’m currently a Junior studying Com Sci
 - 📫 If you wanna reach me this is my discord tag @yuuuu.me
 - 😄 Pronouns: she/her
